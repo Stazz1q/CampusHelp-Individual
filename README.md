@@ -24,6 +24,9 @@ CampusHelp is a proposed portal where students submit service requests, select c
 - [Test Plan](docs/test-plan.md)
 - [Monitoring and Closure](docs/monitoring-and-closure.md)
 - [Individual Work Adaptation](docs/individual-work-adaptation.md)
+- [GitHub Setup Checklist](docs/github-setup-checklist.md)
+- [Student Request Wireframe](mockups/student-request.svg)
+- [Admin Dashboard Wireframe](mockups/admin-dashboard.svg)
 
 ## Prototype
 Open [prototype/index.html](prototype/index.html) in a browser. This is a front-end demonstration using sample data, not a production application.
