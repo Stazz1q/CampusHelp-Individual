@@ -24,3 +24,14 @@ This Markdown snapshot records the current repository-backed work status. It is 
 Closed Issues / Total Issues × 100 = 9 / 12 × 100 = **75%**.
 
 Completed Issues were closed because the corresponding deliverable files were committed to this repository. T09, T11 and T12 remain open because their required evidence is not yet complete.
+
+## Repository evidence links
+- Repository: https://github.com/Stazz1q/CampusHelp-Individual
+- All task Issues: https://github.com/Stazz1q/CampusHelp-Individual/issues
+- Individual contribution Pull Request #13: https://github.com/Stazz1q/CampusHelp-Individual/pull/13 (open; awaiting an external review/merge decision)
+- Student prototype: https://github.com/Stazz1q/CampusHelp-Individual/blob/main/prototype/index.html
+- Student wireframe: https://github.com/Stazz1q/CampusHelp-Individual/blob/main/mockups/student-request.svg
+- Administrator wireframe: https://github.com/Stazz1q/CampusHelp-Individual/blob/main/mockups/admin-dashboard.svg
+
+## Native GitHub configuration still outstanding
+The native GitHub Projects board, custom repository labels and four repository milestones have not been created. The connector available for this session supports repository files and Issues but does not expose create operations for these three GitHub resources. Use docs/github-setup-checklist.md to finish these owner-side UI steps.
