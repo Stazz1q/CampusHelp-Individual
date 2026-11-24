@@ -33,3 +33,10 @@ Open [prototype/index.html](prototype/index.html) in a browser. This is a front-
 
 ## Individual work note
 The assignment brief specifies a three-person group, peer reviews and three contributed Pull Requests. This repository is an individual adaptation. No fictitious collaborators, peer reviews or multi-person contributions are claimed. Confirm the individual alternative with the instructor.
+
+- [GitHub setup checklist](docs/github-setup-checklist.md)
+- [Student request wireframe](mockups/student-request.svg)
+- [Administrator dashboard wireframe](mockups/admin-dashboard.svg)
+- [Current board snapshot](docs/project-board-snapshot.md)
+- [Monitoring checkpoints](docs/checkpoints.md)
+- [Project board CSV](project-board-import.csv)
