@@ -1,0 +1,13 @@
+ID,Title,Assignee,Status,Priority,Estimated Hours,Actual Hours,Milestone,Dependency
+T01,Develop project charter,Stazz1q,Done,High,4,,M1,
+T02,Gather stakeholder requirements,Stazz1q,Done,High,4,,M1,
+T03,Prepare scope and WBS,Stazz1q,Done,Medium,4,,M1,T01
+T04,Prepare schedule dependencies and budget,Stazz1q,Done,High,4,,M2,T03
+T05,Design initial wireframes,Stazz1q,Done,Medium,4,,M2,T02
+T06,Develop risk register and quality plan,Stazz1q,Done,Medium,4,,M2,
+T07,Create student request interface prototype,Stazz1q,Done,High,4,,M3,T05
+T08,Create administrator dashboard prototype,Stazz1q,Done,High,4,,M3,T05
+T09,Prepare and execute prototype test cases,Stazz1q,In Progress,High,4,,M3,T07|T08
+T10,Evaluate and document change request,Stazz1q,Done,Medium,3,,M4,
+T11,Perform final verification and issue review,Stazz1q,Todo,High,3,,M4,T09|T10
+T12,Consolidate final report and closure documents,Stazz1q,In Progress,Medium,3,,M4,T11
